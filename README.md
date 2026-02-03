@@ -1,5 +1,5 @@
 # 💫 Hey There!
-Hi! I am Ashutosh👋<br>I have keen interest in always learning something new!<br>Currently, I am learning Front-End Development.<br>I love to solve problems and learning DSA that gives me ignition to start my day.
+Hi! I am Ashutosh👋<br>I have keen interest in always learning something new!<br>Currently, I am a Front-End Developer.<br>I love to solve problems and learning DSA that gives me ignition to start my day.
 
 
 ## 🌐 Socials:
