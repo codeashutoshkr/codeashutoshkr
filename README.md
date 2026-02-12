@@ -1,5 +1,5 @@
 # 💫 Hey There!
-I am Ashutosh👋<br>I have keen interest in always learning new things.!<br> I am a Web Developer.<br>I love to solve problems and learning DSA that gives me ignition to start my day.
+I am Ashutosh👋<br>I have keen interest in always learning new things.<br> I am a Web Developer🧑🏼‍💻.<br>I love to solve problems and learning DSA that gives me ignition to start my day.
 
 
 ## 🌐 Socials:
