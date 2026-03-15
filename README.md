@@ -1,5 +1,5 @@
 # 💫 Hey There!
-# 💫 About Me:
+
 I am Ashutosh<br>I have keen interest in learning new things.<br> I am a Web Developer🧑🏼‍💻.<br>I love to solve problems and learn DSA that gives me ignition to start my day.<br>
 
 
