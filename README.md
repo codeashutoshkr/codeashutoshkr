@@ -54,35 +54,91 @@ Bonjour!
     
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-<!-- GitHub Stats with Custom Design -->
+<!-- GitHub Stats Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30">
     <span style="color:#6C63FF;">✦ GitHub Universe ✦</span>
   </h2>
-![](https://github-readme-stats.vercel.app/api?username=codeashutoshkr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeashutoshkr&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeashutoshkr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <!-- Stats Cards with Better Visibility -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;"></div>
+  
+  <!-- Streak Stats with Enhanced Visibility -->
+  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; border: 2px solid #FF6B6B; box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3); display: inline-block; margin: 10px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeashutoshkr&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=FFFFFF" 
+         alt="GitHub Streak" 
+         width="500" 
+         style="border-radius: 10px;"/>
+  </div>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=codeashutoshkr&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Contribution Snake Game -->
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+<!-- Contribution Snake Game - FIXED VERSION -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30" height="30">
     <span style="color:#6C63FF;">✦ Contribution Snake ✦</span>
   </h2>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Snake Animation Container with Background -->
+  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 30px; border-radius: 20px; border: 2px solid #6C63FF; box-shadow: 0 8px 32px rgba(108, 99, 255, 0.4); margin: 15px auto; display: inline-block; max-width: 800px; width: 100%;">
+    
+    <!-- Dark Mode Snake -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" 
+           src="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake-dark.svg" 
+           style="border-radius: 10px; width: 100%; max-width: 700px; height: auto;"/>
+    </picture>
+    
+    <!-- Snake Status Message -->
+    <p style="color: #4ECDC4; margin-top: 10px; font-size: 14px;">
+      🐍 Watch the snake eat your contributions! 
+      <span style="color: #FF6B6B;">⟳</span> 
+      <span style="color: #6C63FF;">Updates daily</span>
+    </p>
+  </div>
+  
+  <!-- Alternative if Snake doesn't show -->
+  <details>
+    <summary style="color: #6C63FF; cursor: pointer; font-weight: bold;">
+      ⚠️ Snake not showing? Click here for setup instructions
+    </summary>
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 10px auto; text-align: left; max-width: 600px; border: 1px solid #6C63FF;">
+      <p style="color: #FFFFFF;">
+        <strong style="color: #4ECDC4;">📌 To enable the snake animation:</strong><br>
+        1. Go to your repository: <code>codeashutoshkr/codeashutoshkr</code><br>
+        2. Click on <strong style="color: #6C63FF;">Actions</strong> tab<br>
+        3. Find the <strong style="color: #FF6B6B;">Generate Snake</strong> workflow<br>
+        4. Click <strong style="color: #4ECDC4;">Run workflow</strong> → <strong style="color: #4ECDC4;">Run workflow</strong><br>
+        5. Wait a few seconds and refresh the page<br>
+        6. The snake will appear in the <code>output</code> branch
+      </p>
+    </div>
+  </details>
 </div>
----
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- Visitor Count - Enhanced -->
+  <br>
+  
+  <!-- Social Follow Badges -->
+  <div style="margin: 10px 0;">
+    <img src="https://img.shields.io/github/followers/codeashutoshkr?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=2D2B55"/>
+    <img src="https://img.shields.io/github/stars/codeashutoshkr?style=for-the-badge&logo=github&label=Total%20Stars&color=FF6B6B&labelColor=2D2B55"/>
+    <img src="https://img.shields.io/github/watchers/codeashutoshkr/codeashutoshkr?style=for-the-badge&logo=github&label=Profile%20Watchers&color=4ECDC4&labelColor=2D2B55"/>
+  </div>
+</div>
 <!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
