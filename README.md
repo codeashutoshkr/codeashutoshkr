@@ -78,50 +78,29 @@ Bonjour!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Contribution Snake Game - FIXED VERSION -->
+
+  <!-- Contribution Snake Game - COMPLETE FIX -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30" height="30">
     <span style="color:#6C63FF;">✦ Contribution Snake ✦</span>
   </h2>
   
-  <!-- Snake Animation Container with Background -->
+  <!-- Snake Animation Container -->
   <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 30px; border-radius: 20px; border: 2px solid #6C63FF; box-shadow: 0 8px 32px rgba(108, 99, 255, 0.4); margin: 15px auto; display: inline-block; max-width: 800px; width: 100%;">
     
-    <!-- Dark Mode Snake -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Snake" 
-           src="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/github-contribution-grid-snake-dark.svg" 
-           style="border-radius: 10px; width: 100%; max-width: 700px; height: auto;"/>
-    </picture>
+<div>
+    <img src="https://raw.githubusercontent.com/codeashutoshkr/codeashutoshkr/output/snake.svg" 
+         alt="GitHub Contribution Snake" 
+         style="border-radius: 10px; width: 100%; max-width: 700px; height: auto;"/>
     
-    <!-- Snake Status Message -->
     <p style="color: #4ECDC4; margin-top: 10px; font-size: 14px;">
       🐍 Watch the snake eat your contributions! 
       <span style="color: #FF6B6B;">⟳</span> 
       <span style="color: #6C63FF;">Updates daily</span>
     </p>
   </div>
-  
-  <!-- Alternative if Snake doesn't show -->
-  <details>
-    <summary style="color: #6C63FF; cursor: pointer; font-weight: bold;">
-      ⚠️ Snake not showing? Click here for setup instructions
-    </summary>
-    <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 10px auto; text-align: left; max-width: 600px; border: 1px solid #6C63FF;">
-      <p style="color: #FFFFFF;">
-        <strong style="color: #4ECDC4;">📌 To enable the snake animation:</strong><br>
-        1. Go to your repository: <code>codeashutoshkr/codeashutoshkr</code><br>
-        2. Click on <strong style="color: #6C63FF;">Actions</strong> tab<br>
-        3. Find the <strong style="color: #FF6B6B;">Generate Snake</strong> workflow<br>
-        4. Click <strong style="color: #4ECDC4;">Run workflow</strong> → <strong style="color: #4ECDC4;">Run workflow</strong><br>
-        5. Wait a few seconds and refresh the page<br>
-        6. The snake will appear in the <code>output</code> branch
-      </p>
-    </div>
-  </details>
+</div>
 </div>
 
 <!-- Divider -->
