@@ -94,11 +94,6 @@ Bonjour!
          alt="GitHub Contribution Snake" 
          style="border-radius: 10px; width: 100%; max-width: 700px; height: auto;"/>
     
-    <p style="color: #4ECDC4; margin-top: 10px; font-size: 14px;">
-      🐍 Watch the snake eat your contributions! 
-      <span style="color: #FF6B6B;">⟳</span> 
-      <span style="color: #6C63FF;">Updates daily</span>
-    </p>
   </div>
 </div>
 </div>
